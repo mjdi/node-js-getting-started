@@ -1,3 +1,7 @@
+# Marcus Diemand
+
+(for PROG8560 Assignment #3)
+
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
